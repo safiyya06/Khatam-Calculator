@@ -1,4 +1,10 @@
 #home-section {
     padding-top: 10%;
     min-height: 100vh;
+    background-color: lightgoldenrodyellow;
+}
+
+#bypages-section {
+    padding-top: 10%;
+    min-height: 100vh;
 }
